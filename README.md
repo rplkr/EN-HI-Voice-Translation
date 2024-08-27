@@ -21,7 +21,7 @@ To set up and run the project on your local machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/voice-translation.git
+   git clone https://github.com/rplkr/voice-translation.git
    cd voice-translation
 2. **Install the required packages:**
    ```bash
